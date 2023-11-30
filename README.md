@@ -1,0 +1,1 @@
+{"user":{"username":"ivanov123","email":"ivanov123@mail.ru","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY1NjhlYjY4ZmYzY2M4MWIwMGRhZDhmMCIsInVzZXJuYW1lIjoiaXZhbm92MTIzIiwiZXhwIjoxNzA2NTU5NTgxLCJpYXQiOjE3MDEzNzU1ODF9.RN1yFthb85HfPcIDPrMaM7xLkVRcczp37sfUYtR44kE"}}
